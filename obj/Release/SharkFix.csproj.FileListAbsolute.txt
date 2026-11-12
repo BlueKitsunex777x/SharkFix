@@ -1,0 +1,8 @@
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/obj/Release/SharkFix.csproj.AssemblyReference.cache
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/obj/Release/SharkFix.GeneratedMSBuildEditorConfig.editorconfig
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/obj/Release/SharkFix.AssemblyInfoInputs.cache
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/obj/Release/SharkFix.AssemblyInfo.cs
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/obj/Release/SharkFix.csproj.CoreCompileInputs.cache
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/bin/Release/SharkFixes.deps.json
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/bin/Release/SharkFixes.dll
+/home/sapphire/.config/BlockStoryModKit/Workspace/mods/SharkFix/obj/Release/SharkFixes.dll
