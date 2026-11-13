@@ -21,6 +21,7 @@ public class SharkFix : BaseUnityPlugin
 
     private void Awake()
     {
+        if (!BSMKCheck.Passed(this)) return;   // added: only runs on the real BSMK Core
         ModRegistry.Register(new ModInfo
         {
             Name = "Shark Fixes",
