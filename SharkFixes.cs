@@ -12,8 +12,8 @@ public class SharkFix : BaseUnityPlugin
     
     // the game gives sharks a 3 1 3 block box and a 6 tall body, way bigger than the model,
     // so they snag on blocks and you bump them from far away
-    static readonly Vector3 OldBlockBox = new Vector3(3f, 1f, 3f);
-    static readonly Vector3 NewBlockBox = new Vector3(1.5f, 1f, 1.5f);
+    static readonly Vector3 OldBlockBox = new(3f, 1f, 3f);
+    static readonly Vector3 NewBlockBox = new(1.5f, 1f, 1.5f);
     const float BodyRadius = 0.8f;
     const float BodyHeight = 1f;
 
