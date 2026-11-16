@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharkFixes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12d11518a05b54ea4a823bd00777fc00fcdecae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharkFixes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharkFixes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
