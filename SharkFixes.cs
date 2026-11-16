@@ -4,7 +4,7 @@ using BlockStoryMod;
 using HarmonyLib;
 using UnityEngine;
 
-[BepInPlugin("com.BlueKitsunex777x.blockstory.sharkfixes", "Shark Fixes", "1.0.0")]
+[BepInPlugin("com.BlueKitsunex777x.blockstory.sharkfixes", "Shark Fixes", "1.1.0")]
 [BepInDependency(Core.Guid)]
 public class SharkFix : BaseUnityPlugin
 {
